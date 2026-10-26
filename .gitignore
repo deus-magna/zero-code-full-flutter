@@ -54,3 +54,6 @@ env*.json
 
 # Office lock files
 ~$*
+
+# Slides source (only the PDF is published)
+docs/*.pptx
